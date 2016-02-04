@@ -28,7 +28,7 @@ describe('expand', function() {
     expect(expand(object)).to.eql(expandedObject);
   });
   it('should expand deep paths for array elements', function() {
-    var arr = (n,o) => { var a = []; a[n] = o; return a };
+    var arr = function (n,o) { var a = []; a[n] = o; return a };
     var object = { 'foo.2.bar' : 42 };
     var expandedObject = { 'foo' : arr(2, { 'bar': 42 }) };
     expect(expand(object)).to.eql(expandedObject);
