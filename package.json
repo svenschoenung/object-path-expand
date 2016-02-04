@@ -38,5 +38,8 @@
     "index",
     "nested"
   ],
+  "engines": {
+    "node": ">= 0.12"
+  },
   "license": "MIT"
 }
