@@ -1,3 +1,4 @@
+[![npm Version](https://img.shields.io/npm/v/object-path-expand.svg)](https://www.npmjs.com/package/object-path-expand)
 [![Build Status](https://travis-ci.org/svenschoenung/object-path-expand.svg?branch=master)](https://travis-ci.org/svenschoenung/object-path-expand)
 [![Coverage Status](https://coveralls.io/repos/github/svenschoenung/object-path-expand/badge.svg?branch=master)](https://coveralls.io/github/svenschoenung/object-path-expand?branch=master)
 [![Dependency Status](https://david-dm.org/svenschoenung/object-path-expand.svg)](https://david-dm.org/svenschoenung/object-path-expand)
@@ -8,6 +9,12 @@
 # object-path-expand
 
 Expand JS objects containing deep path properties.
+
+## Installation
+
+```
+npm install object-path-expand --save
+```
 
 ## Usage
 
