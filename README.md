@@ -1,3 +1,10 @@
+[![Build Status](https://travis-ci.org/svenschoenung/object-path-expand.svg?branch=master)](https://travis-ci.org/svenschoenung/object-path-expand)
+[![Coverage Status](https://coveralls.io/repos/github/svenschoenung/object-path-expand/badge.svg?branch=master)](https://coveralls.io/github/svenschoenung/object-path-expand?branch=master)
+[![Dependency Status](https://david-dm.org/svenschoenung/object-path-expand.svg)](https://david-dm.org/svenschoenung/object-path-expand)
+[![devDependency Status](https://david-dm.org/svenschoenung/object-path-expand/dev-status.svg)](https://david-dm.org/svenschoenung/object-path-expand#info=devDependencies)
+[![Code Climate](https://codeclimate.com/github/svenschoenung/object-path-expand/badges/gpa.svg)](https://codeclimate.com/github/svenschoenung/object-path-expand)
+
+
 # object-path-expand
 
 Expand JS objects containing deep path properties.
